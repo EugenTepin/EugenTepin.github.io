@@ -1,9 +1,13 @@
+html, body,.wrapper,.menu,.content{
+    height:100%;
+    min-height: 100%;
+  }
+
+
 .menu{
-    height: 100%;
     background-color: darkgray;
 }
 
 .content{
-    height: 100%;
-    background-color: white;
+    background-color: black;
 }
