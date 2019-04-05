@@ -1,0 +1,9 @@
+.menu{
+    height: 100%;
+    background-color: darkgray;
+}
+
+.content{
+    height: 100%;
+    background-color: white;
+}
